@@ -1,3 +1,4 @@
+e085f80 Task 2.4: Update your log.txt and commit the changes to any files
 a2ca5a0 Task 2.3: Update your log.txt and commit the changes to any files
 21fde24 Task 2.2: Update your log.txt and commit the changes to any files
 ba23fd6 Task 2.1: Update your log.txt and do the refactoring
